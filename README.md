@@ -1,5 +1,7 @@
 # GPGPU Particles Lab - 262k Swarm 🌌
 
+
+
 An interactive, high-performance particle laboratory built with **Three.js** and **GPGPU**, simulating over 260,000 particles in real-time with physics processed entirely on the GPU.
 
 ## 🚀 Technologies Used
